@@ -15,7 +15,7 @@ export default function App() {
     var uservalue = event.target.value;
     output = emojidictionary[uservalue];
     if (output === undefined) {
-      output = "we dont have this value in out database";
+      output = "we dont have this emoji in our database";
     }
     setvalue(output);
   }
