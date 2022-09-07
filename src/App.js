@@ -5,7 +5,13 @@ var emojidictionary = {
   "😍": "Smiling Face with Heart-Eyes",
   "😏": "Smirking Face",
   "😲": "Astonished Face",
-  "😨": "FearFull Face"
+  "😨": "FearFull Face",
+  "😅": "Sweat Smile",
+  "😂": "Joy",
+  "😋": "Yummy",
+  "😶": "Blankface/Silence",
+  "🤥": "Lying face",
+  "😴": "Sleeping face"
 };
 
 var knownemojis = Object.keys(emojidictionary);
